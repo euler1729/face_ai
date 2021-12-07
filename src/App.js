@@ -8,7 +8,7 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import SignInForm from './components/SignInForm/SignInForm';
 import Register from './components/Register/Register';
 import './App.css';
-
+// test
 const url = 'https://face-ai-backend.herokuapp.com/'
 // const url= 'http://localhost:4000/';
 const initialState = {
